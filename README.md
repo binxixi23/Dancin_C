@@ -1,4 +1,6 @@
-﻿# !\[Dancin\_C Robot](assets/robot\_dance.jpg)
+﻿# 🤖 Dancin_C: The Embodied Affective AI Ecosystem
+![Dancin_C Robot](assets/robot_dance.png)
+# !\[Dancin\_C Robot](assets/robot\_dance.jpg)
 
 
 
@@ -93,4 +95,5 @@
 # Built with the belief that AI should help humans connect with themselves and others in more meaningful ways.
 
 # 
+
 
