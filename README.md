@@ -1,12 +1,6 @@
 ﻿# 🤖 Dancin_C: The Embodied Affective AI Ecosystem
 ![Dancin_C Robot](assets/robot_dance.png)
-# !\[Dancin\_C Robot](assets/robot\_dance.jpg)
 
-
-
-# 
-
-# Ã°Å¸Â¤â€“ Dancin\_C: The Embodied Affective AI Ecosystem
 
 # "Where AI doesn't just process code, but understands your heartbeat and emotions."
 
