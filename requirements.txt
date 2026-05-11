@@ -1,0 +1,8 @@
+crewai==0.1.0
+langgraph==0.0.15
+google-generativeai
+openai
+pydantic
+pyserial
+numpy
+opencv-python
