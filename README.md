@@ -76,7 +76,7 @@
 
 # Getting Started
 
-# 1\.	Clone the repo: git clone https://github.com
+# 1\.	Clone the repo: git clone [https://github.com](https://github.com/binxixi23/Dancin_C)
 
 # 2\.	Install dependencies: pip install -r requirements.txt
 
